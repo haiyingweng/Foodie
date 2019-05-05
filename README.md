@@ -21,7 +21,7 @@ Leo Liang: Backend
  - UISearchBar used
  - UINavigationController used to move between home screen and screen to create new event 
  - UserDefault is used to persist events that are starred
- - Sotryboard used for launchscreen
+ - Storyboard used for launchscreen
  - Added Google SignIn 
  - Integration with an API
  
