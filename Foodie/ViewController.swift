@@ -435,6 +435,7 @@ class ViewController: UIViewController {
     @objc func pulledToRefresh() {
         setUpEvents { (success) -> Void in
             DispatchQueue.main.async {
+                self.setFaveEvents()
                 self.refreshControl.endRefreshing()
             }
         }
