@@ -16,7 +16,6 @@ class EventCell: UICollectionViewCell {
     var date: UILabel!
     var time: UILabel!
     var picture: UIImageView!
-  //  var tags: UILabel!
     var starIcon: UIButton!
     
     var locationIcon: UIImageView!
