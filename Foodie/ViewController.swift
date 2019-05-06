@@ -69,9 +69,6 @@ class ViewController: UIViewController {
         locationFilter = ["North", "West", "Central", "South", "East"]
         foodFilter = ["meals", "snacks", "desserts", "drinks"]
         
-//        events = setUpEvents()
-//        pulledToRefresh()
-        
         title = "Foodie"
         navigationController?.navigationBar.barTintColor = UIColor(red:1, green:0.45, blue:0.42, alpha:1.0)
         navigationController?.navigationBar.titleTextAttributes = [.foregroundColor: UIColor.white, .font: UIFont(name: "AvenirNext-DemiBold", size: 23)!]
@@ -205,7 +202,6 @@ class ViewController: UIViewController {
                 self.setFaveEvents()
             }
         }
-        
     }
     
     func setUpConstraints() {
@@ -466,21 +462,6 @@ class ViewController: UIViewController {
             self.eventCollectionView.reloadData()
         }
     }
-    
-//    override func viewWillAppear(_ animated: Bool) {
-//        eventCollectionView.reloadData()
-//        if let favoriteEvents = defaults.object(forKey: Key.starredEvents) as? [String] {
-//            print(favoriteEvents)
-//            for title in favoriteEvents {
-//                for event in events {
-//                    if(title == event.eventTitle) {
-//                        event.isFavorite = true
-//                    }
-//                }
-//            }
-//        }
-//        eventCollectionView.reloadData()
-//    }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()

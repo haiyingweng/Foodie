@@ -230,6 +230,8 @@ class NewEvent: UIViewController {
         
         datePicker = UIDatePicker()
         datePicker.datePickerMode = .date
+        datePicker.minimumDate = Calendar.current.date(byAdding: .year, value: 0, to: Date())
+        datePicker.maximumDate = Calendar.current.date(byAdding: .year, value: +1, to: Date())
         
         fromTimePicker = UIDatePicker()
         fromTimePicker.datePickerMode = .time
