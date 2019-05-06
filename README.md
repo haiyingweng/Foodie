@@ -1,5 +1,5 @@
 # Foodie
-Foodie is an iOS app that allows users to find free food and upload a free food event on Cornell campus. 
+Foodie is an app that allows users to find free food and upload a free food event on Cornell campus. 
 
 Members:  
 Haiying Weng: iOS   
@@ -16,13 +16,14 @@ There are many options to get free food on campus to save money and BRBs, but th
 **iOS implementation**  
  - AutoLayout employed using SnapKit
  - UICollectionView used to display all food events
- - UIScrollView used to display a form to create an food event
- - UISearchBar used to search events 
- - Navigation: used to move between home screen and screen to create new event and between home screen and event detailView 
+ - UIScrollView to display a form to create an food event
+ - UISearchBar to search events 
+ - UINavigationController used to move between home screen and screen to create new event and between home screen and event detailView \
+ - UIDatePicker for choosing date and time. 
  - UserDefault used to persist events that are starred
  - Storyboard used for the launchscreen
  - Implemented Google SignIn 
- - Integration with an API
+ - Integration with API
  
  **Possible implementation for the future**
  - Implement map into location 
