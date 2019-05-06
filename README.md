@@ -1,5 +1,5 @@
 # Foodie
-Foodie is an iOS app that allows users to find free food on the Cornell campus. 
+Foodie is an iOS app that allows users to find free food and upload a free food event on Cornell campus. 
 
 Members:  
 Haiying Weng: iOS   
@@ -10,10 +10,10 @@ Leo Liang: Backend
 # Screenshots 
 ![](Screenshot/appicon.png)  
 
-**App Description**
-There are many options to get free food on campus to save money and BRBs, but they are sometimes hard to find or keep up with. Providers of food also want to advertise their events or get rid of food to make clean up easier. This app allows users to upload an event or view the lists of events. Events will have specified location, date, time, tags, and image. The user can filter and search to find their desired events. Filters are based on the type of food and location. There is also for users to save their favorite events. A new event can be created by filling out a form.  
+**App Description**  
+There are many options to get free food on campus to save money and BRBs, but they are sometimes hard to find or keep up with. Providers of food also want to advertise their events or get rid of food to make clean up easier. This app allows users to upload an event or view the lists of events. Events will have specified location, date, time, tags, and image. The user can filter and search to find their desired events. Filters are based on the type of food and location. There is also for users to save their favorite events. A new event can be created by filling out a form. 
 
-**iOS implementation**
+**iOS implementation**  
  - AutoLayout employed using SnapKit
  - UICollectionView used to display all food events
  - UIScrollView used to display a form to create an food event
@@ -30,5 +30,6 @@ There are many options to get free food on campus to save money and BRBs, but th
  - Allow users to edit amount of food left / wait time 
 
 # Backend Repo 
+https://github.com/foxhatleo/Foodies-Backend 
 
 
