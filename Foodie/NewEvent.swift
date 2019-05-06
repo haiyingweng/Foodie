@@ -66,7 +66,7 @@ class NewEvent: UIViewController {
         
         scrollView = UIScrollView()
         scrollView.backgroundColor = .white
-        scrollView.contentSize.height = view.bounds.height + 350
+        scrollView.contentSize.height = view.bounds.height + 400
         view.addSubview(scrollView)
         
         rules = UILabel()
@@ -230,7 +230,7 @@ class NewEvent: UIViewController {
         
         datePicker = UIDatePicker()
         datePicker.datePickerMode = .date
-            
+        
         fromTimePicker = UIDatePicker()
         fromTimePicker.datePickerMode = .time
         
