@@ -451,7 +451,7 @@ class ViewController: UIViewController {
                 }
             }
         }
-        for event in events{
+        for event in events {
             if event.isFavorite {
                 if !(starredEvents.contains(where: { $0.eventTitle == event.eventTitle })) {
                     starredEvents.append(event)
