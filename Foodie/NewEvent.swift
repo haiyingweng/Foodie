@@ -248,7 +248,7 @@ class NewEvent: UIViewController {
         toolbar.setItems([doneButton,spaceButton,cancelButton], animated: false)
         
         dateTextField.inputView = datePicker
-        dateTextField.inputAccessoryView = toolbar
+        dateTextField.inputAccessoryView = toolbar  
         
         fromTimeTextField.inputView = fromTimePicker
         fromTimeTextField.inputAccessoryView = toolbar

@@ -2,13 +2,14 @@
 Foodie is an iOS app that allows users to find free food on the Cornell campus. 
 
 Members:  
-Cindy Huang: Design  
-Leo Liang: Backend  
 Haiying Weng: iOS   
 Yuxuan Chen: iOS   
+Cindy Huang: Design  
+Leo Liang: Backend 
 
 # Screenshots 
-
+![](Screenshot/appicon.png)  
+![](Screenshot/launchlogo.png)
 
 **App Description**
 
@@ -20,6 +21,7 @@ Yuxuan Chen: iOS
  - UISearchBar used
  - UINavigationController used to move between home screen and screen to create new event 
  - UserDefault is used to persist events that are starred
+ - Storyboard used for launchscreen
  - Added Google SignIn 
  - Integration with an API
  

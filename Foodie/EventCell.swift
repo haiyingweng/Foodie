@@ -35,7 +35,6 @@ class EventCell: UICollectionViewCell {
         contentView.layer.shadowRadius = 5
         contentView.layer.shadowOffset = CGSize(width: -5, height: 5)
         contentView.layer.shadowPath = UIBezierPath(roundedRect:(contentView.bounds), cornerRadius:20).cgPath
-
         
         title = UILabel()
         title.textColor = .black

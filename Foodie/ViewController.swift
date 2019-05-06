@@ -54,7 +54,6 @@ class ViewController: UIViewController {
     let filterPadding: CGFloat = 5
     
     var state = "upcoming"
-    
     var wasFiltering = false
     
     let defaults = UserDefaults.standard
