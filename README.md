@@ -22,8 +22,8 @@ There are many options to get free food on campus to save money and BRBs, but th
  - UICollectionView used to display all food events
  - UIScrollView to display a form to create an food event
  - UISearchBar to search events 
- - UINavigationController used to move between home screen and screen to create new event and between home screen and event detailView \
- - UIDatePicker for choosing date and time. 
+ - UINavigationController used to move between home screen and screen to create new event and between home screen and event detailView 
+ - UIDatePicker for choosing date and time when creating an event
  - UserDefault used to persist events that are starred
  - Storyboard used for the launchscreen
  - Implemented Google SignIn 
