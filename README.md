@@ -1,5 +1,5 @@
 # Foodie
-Foodie is an app that allows users to find free food and upload a free food event on Cornell campus. 
+Foodie is an app that allows users to find free food or upload a free food event on Cornell campus. 
 
 Members:  
 Haiying Weng: iOS   
