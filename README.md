@@ -9,6 +9,16 @@ Leo Liang: Backend
 
 # Screenshots 
 ![](Screenshot/appicon.png)  
+![](Screenshot/LaunchScreen.png)
+![](Screenshot/SignIn.png)
+![](Screenshot/UpcomingEventFeed.png)
+![](Screenshot/StarredEvent.png)
+![](Screenshot/DetailView.png)
+![](Screenshot/CreateEvent1.png)
+![](Screenshot/CreateEvent2.png)
+![](Screenshot/Filters.png)
+![](Screenshot/SearchBar.png)
+
 
 **App Description**  
 There are many options to get free food on campus to save money and BRBs, but they are sometimes hard to find or keep up with. Providers of food also want to advertise their events or get rid of food to make clean up easier. This app allows users to upload an event or view the lists of events. Events will have specified location, date, time, tags, and image. The user can filter and search to find their desired events. Filters are based on the type of food and location. There is also for users to save their favorite events. A new event can be created by filling out a form. 
