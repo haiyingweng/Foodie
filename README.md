@@ -18,6 +18,8 @@ Leo Liang: Backend
 ![](Screenshot/CreateEvent2.png)
 ![](Screenshot/Filters.png)
 ![](Screenshot/SearchBar.png)
+![](Screenshot/try.png)
+
 
 
 **App Description**  
