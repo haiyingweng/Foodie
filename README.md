@@ -9,7 +9,7 @@ Leo Liang: Backend
 
 # Screenshots 
 ![](Screenshot/appicon.png)  
-<img src="Screenshot/LaunchScreen.png" width="200"> <img src="Screenshot/SignIn.png" width="200">  
+<img src="Screenshot/LaunchScreen.png" width="200"> <img src="Screenshot/SignIn.png" width="200">   
 <img src="Screenshot/UpcomingEventFeed.png" width="200"> <img src="Screenshot/StarredEvent.png" width="200"> <img src="Screenshot/DetailView.png" width="200">  
 <img src="Screenshot/CreateEvent1.png" width="200"> <img src="Screenshot/CreateEvent2.png" width="200"> <img src="Screenshot/SearchBar.png" width="200"> <img src="Screenshot/Filters.png" width="200">
 
